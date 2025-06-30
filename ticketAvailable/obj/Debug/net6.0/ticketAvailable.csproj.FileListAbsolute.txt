@@ -1,0 +1,14 @@
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\bin\Debug\net6.0\ticketAvailable.exe
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\bin\Debug\net6.0\ticketAvailable.deps.json
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\bin\Debug\net6.0\ticketAvailable.runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\bin\Debug\net6.0\ticketAvailable.dll
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\bin\Debug\net6.0\ticketAvailable.pdb
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.dll
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\refint\ticketAvailable.dll
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.pdb
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ticketAvailable.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\Hexaware\TicketBookingApplication\ticketAvailable\obj\Debug\net6.0\ref\ticketAvailable.dll
