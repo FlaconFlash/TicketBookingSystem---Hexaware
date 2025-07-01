@@ -36,7 +36,7 @@ class Program
                     decimal price = decimal.Parse(Console.ReadLine());
 
                     currentEvent = system.CreateEvent(type, name, date, time, venue, seats, price);
-                    Console.WriteLine("✅ Event created.");
+                    Console.WriteLine("Event created.");
                     break;
 
                 case "book_tickets":
@@ -55,7 +55,7 @@ class Program
 
                 case "get_available_seats":
                     if (currentEvent == null) { Console.WriteLine("⚠ No event."); break; }
-                    Console.WriteLine($"🎫 Seats available: {system.GetAvailableSeats(currentEvent)}");
+                    Console.WriteLine($"Seats available: {system.GetAvailableSeats(currentEvent)}");
                     break;
 
                 case "display_event":
@@ -64,11 +64,11 @@ class Program
                     break;
 
                 case "exit":
-                    Console.WriteLine("👋 Exiting system.");
+                    Console.WriteLine(" Exiting system.");
                     break;
 
                 default:
-                    Console.WriteLine("❓ Invalid command.");
+                    Console.WriteLine(" Invalid command.");
                     break;
             }
         }
